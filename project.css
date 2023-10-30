@@ -1,0 +1,91 @@
+.bgcolor{
+    background-color: pink;
+}
+.sand{
+
+    width: 700px;
+    height: 300px;
+    border: 5px;
+    border-color: black;
+    border-style: dashed;
+    
+    
+}
+.moj{
+    width: 100px; 
+    height: 100px; 
+    float: right; 
+}
+
+#nav{
+    font-size: 40px;
+    word-spacing: 30px;
+    font-style: oblique;
+    text-align: center;
+    border: none;
+    background-color: aqua;
+    font-weight: bold;
+
+    
+    
+}
+
+#food{
+    width:300px ;
+    height: 300px;
+    border: 3px red solid;
+    border-style: dotted;
+    float: left;
+    image-rendering: pixelated;
+    
+    
+
+}
+#food:hover{
+
+    color: rgb(41, 68, 241);
+    background-color: rgb(90, 241, 40);
+    
+}
+
+
+.topText{
+    color: darkblue;
+    font-size: 80px;
+    font-style: italic;
+    text-align: left;
+    
+
+    
+
+}
+
+.logo{
+    border-radius: 50px 0 50px 0; height: 10    0px;
+    width: 100px;
+}
+.price{
+    font-size: 30px;
+    font-style: italic;
+    
+}
+.price:hover{
+
+    color: rgb(41, 68, 241);
+    background-color: rgb(90, 241, 40);
+    
+
+}
+
+.page:hover{
+
+    color: rgb(255, 0, 0);
+    background-color: rgb(90, 241, 40);
+    
+
+}
+.menu{
+    float: right;
+    height: 900px;
+    width: 600px;
+}
